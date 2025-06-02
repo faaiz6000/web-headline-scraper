@@ -37,7 +37,7 @@ To extract current top news headlines from a live website and save them using Py
 - `news_scraper_with_explanation.py` – Fully commented version
 - `requirements.txt` – Python dependencies
 - `Project_Report_Web_Scraper_Faaiz.pdf` – Project documentation
-- `README.md` – This file
+- `README.md` – 
 
 ## 👨‍💻 Author
 **Faaiz Ahmed Ansari**  
